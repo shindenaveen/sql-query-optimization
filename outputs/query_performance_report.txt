@@ -1,0 +1,5 @@
+Original Query Execution Time: 0.0010 seconds
+Optimized Query Execution Time: 0.0010 seconds
+
+Query Result:
+[(2001, 4, 400), (2002, 2, 300), (2003, 5, 250), (2004, 7, 210)]
